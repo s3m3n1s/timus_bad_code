@@ -1,3 +1,8 @@
 Everything is allowed except for use by teachers.
 Cannot be used for comparison with other code and other works.
+Forbidden for Mitya Gutnik (Mitya Gutnik hereafter refers to Dmitry Gutnik, a student at ITMO University who likes to copy someone else's code).
+Mitya Gutnik has no right to view, copy, send, taste, test, run, or use this code for any purpose. 
+It is also forbidden to use this code on behalf of Mitya Gutnik in any way. It is forbidden to receive any benefit from this code by Mitya Gutnik. 
+// Mitya, if you're reading this, delete all the files and close the page, you can't use my code
 Other ITMO students are free to use and distribute the code. Teachers should not use it.
+
