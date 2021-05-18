@@ -8,6 +8,7 @@
 #define счетчик2 jiter
 #define счетчик3 kiter
 
+//Ах как я люблю программировать на русском...
 #define целое int
 #define глав main
 #define ввод cin
